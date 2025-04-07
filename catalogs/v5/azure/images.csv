@@ -1,0 +1,8 @@
+Tag,Region,OS,OSVersion,ImageId,BaseImageId
+seedling:gpu-ubuntu-2204,,Ubuntu,22.04,microsoft-dsvm:ubuntu-hpc:2204:22.04.2023080201
+seedling:k80-ubuntu-2004,,Ubuntu,20.04,microsoft-dsvm:ubuntu-2004:2004-gen2:21.08.30
+seedling:v1-ubuntu-2004,,Ubuntu,20.04,microsoft-dsvm:ubuntu-2004:2004:21.11.04
+seedling:custom-gpu-ubuntu-v1,,Ubuntu,22.04,/CommunityGalleries/seedling-5c783dcb-c1d8-48ca-a5eb-0cee59e165fd/Images/seedling-gpu-gen1,canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen1
+seedling:custom-cpu-ubuntu-v2,,Ubuntu,22.04,/CommunityGalleries/seedling-fc3311ab-d34c-4589-b2fb-a95b8a84ceb1/Images/seedling-cpu-gen2,canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2
+seedling:custom-gpu-ubuntu-v2,,Ubuntu,22.04,/CommunityGalleries/seedling-fc3311ab-d34c-4589-b2fb-a95b8a84ceb1/Images/seedling-gpu-gen2,canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2
+seedling:custom-gpu-ubuntu-v2-grid,,Ubuntu,22.04,/CommunityGalleries/seedling-5c783dcb-c1d8-48ca-a5eb-0cee59e165fd/Images/seedling-gpu-gen2-grid,canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2
