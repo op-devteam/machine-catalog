@@ -1,0 +1,263 @@
+Name,Description,Price,Region,AvailabilityZone
+gp2,SSD-backed General Purpose Disk,0.00018180555555555555,af-south-1,afs1-az1
+gp2,SSD-backed General Purpose Disk,0.00018180555555555555,af-south-1,afs1-az2
+gp2,SSD-backed General Purpose Disk,0.00018180555555555555,af-south-1,afs1-az3
+gp2,SSD-backed General Purpose Disk,0.00018333333333333334,ap-east-1,ape1-az1
+gp2,SSD-backed General Purpose Disk,0.00018333333333333334,ap-east-1,ape1-az2
+gp2,SSD-backed General Purpose Disk,0.00018333333333333334,ap-east-1,ape1-az3
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-northeast-1,apne1-az1
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-northeast-1,apne1-az2
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-northeast-1,apne1-az4
+gp2,SSD-backed General Purpose Disk,0.00015833333333333335,ap-northeast-2,apne2-az1
+gp2,SSD-backed General Purpose Disk,0.00015833333333333335,ap-northeast-2,apne2-az2
+gp2,SSD-backed General Purpose Disk,0.00015833333333333335,ap-northeast-2,apne2-az3
+gp2,SSD-backed General Purpose Disk,0.00015833333333333335,ap-northeast-2,apne2-az4
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-northeast-3,apne3-az1
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-northeast-3,apne3-az2
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-northeast-3,apne3-az3
+gp2,SSD-backed General Purpose Disk,0.00015833333333333335,ap-south-1,aps1-az1
+gp2,SSD-backed General Purpose Disk,0.00015833333333333335,ap-south-1,aps1-az2
+gp2,SSD-backed General Purpose Disk,0.00015833333333333335,ap-south-1,aps1-az3
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-1,apse1-az1
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-1,apse1-az2
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-1,apse1-az3
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-2,apse2-az1
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-2,apse2-az2
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-2,apse2-az3
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-3,apse3-az1
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-3,apse3-az2
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,ap-southeast-3,apse3-az3
+gp2,SSD-backed General Purpose Disk,0.00015277777777777777,ca-central-1,cac1-az1
+gp2,SSD-backed General Purpose Disk,0.00015277777777777777,ca-central-1,cac1-az2
+gp2,SSD-backed General Purpose Disk,0.00015277777777777777,ca-central-1,cac1-az4
+gp2,SSD-backed General Purpose Disk,0.00016527777777777778,eu-central-1,euc1-az1
+gp2,SSD-backed General Purpose Disk,0.00016527777777777778,eu-central-1,euc1-az2
+gp2,SSD-backed General Purpose Disk,0.00016527777777777778,eu-central-1,euc1-az3
+gp2,SSD-backed General Purpose Disk,0.00014513888888888888,eu-north-1,eun1-az1
+gp2,SSD-backed General Purpose Disk,0.00014513888888888888,eu-north-1,eun1-az2
+gp2,SSD-backed General Purpose Disk,0.00014513888888888888,eu-north-1,eun1-az3
+gp2,SSD-backed General Purpose Disk,0.00016041666666666667,eu-south-1,eus1-az1
+gp2,SSD-backed General Purpose Disk,0.00016041666666666667,eu-south-1,eus1-az2
+gp2,SSD-backed General Purpose Disk,0.00016041666666666667,eu-south-1,eus1-az3
+gp2,SSD-backed General Purpose Disk,0.00015277777777777777,eu-west-1,euw1-az1
+gp2,SSD-backed General Purpose Disk,0.00015277777777777777,eu-west-1,euw1-az2
+gp2,SSD-backed General Purpose Disk,0.00015277777777777777,eu-west-1,euw1-az3
+gp2,SSD-backed General Purpose Disk,0.0001611111111111111,eu-west-2,euw2-az1
+gp2,SSD-backed General Purpose Disk,0.0001611111111111111,eu-west-2,euw2-az2
+gp2,SSD-backed General Purpose Disk,0.0001611111111111111,eu-west-2,euw2-az3
+gp2,SSD-backed General Purpose Disk,0.0001611111111111111,eu-west-3,euw3-az1
+gp2,SSD-backed General Purpose Disk,0.0001611111111111111,eu-west-3,euw3-az2
+gp2,SSD-backed General Purpose Disk,0.0001611111111111111,eu-west-3,euw3-az3
+gp2,SSD-backed General Purpose Disk,0.00016805555555555554,me-central-1,mec1-az1
+gp2,SSD-backed General Purpose Disk,0.00016805555555555554,me-central-1,mec1-az2
+gp2,SSD-backed General Purpose Disk,0.00016805555555555554,me-central-1,mec1-az3
+gp2,SSD-backed General Purpose Disk,0.00016805555555555554,me-south-1,mes1-az1
+gp2,SSD-backed General Purpose Disk,0.00016805555555555554,me-south-1,mes1-az2
+gp2,SSD-backed General Purpose Disk,0.00016805555555555554,me-south-1,mes1-az3
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-1,use1-az1
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-1,use1-az2
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-1,use1-az3
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-1,use1-az4
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-1,use1-az5
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-1,use1-az6
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-2,use2-az1
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-2,use2-az2
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-east-2,use2-az3
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,us-west-1,usw1-az1
+gp2,SSD-backed General Purpose Disk,0.00016666666666666666,us-west-1,usw1-az3
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-west-2,usw2-az1
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-west-2,usw2-az2
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-west-2,usw2-az3
+gp2,SSD-backed General Purpose Disk,0.0001388888888888889,us-west-2,usw2-az4
+gp3,SSD-backed General Purpose Disk,0.00014541666666666666,af-south-1,afs1-az1
+gp3,SSD-backed General Purpose Disk,0.00014541666666666666,af-south-1,afs1-az2
+gp3,SSD-backed General Purpose Disk,0.00014541666666666666,af-south-1,afs1-az3
+gp3,SSD-backed General Purpose Disk,0.00014666666666666666,ap-east-1,ape1-az1
+gp3,SSD-backed General Purpose Disk,0.00014666666666666666,ap-east-1,ape1-az2
+gp3,SSD-backed General Purpose Disk,0.00014666666666666666,ap-east-1,ape1-az3
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-northeast-1,apne1-az1
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-northeast-1,apne1-az2
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-northeast-1,apne1-az4
+gp3,SSD-backed General Purpose Disk,0.00012666666666666666,ap-northeast-2,apne2-az1
+gp3,SSD-backed General Purpose Disk,0.00012666666666666666,ap-northeast-2,apne2-az2
+gp3,SSD-backed General Purpose Disk,0.00012666666666666666,ap-northeast-2,apne2-az3
+gp3,SSD-backed General Purpose Disk,0.00012666666666666666,ap-northeast-2,apne2-az4
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-northeast-3,apne3-az1
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-northeast-3,apne3-az2
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-northeast-3,apne3-az3
+gp3,SSD-backed General Purpose Disk,0.00012666666666666666,ap-south-1,aps1-az1
+gp3,SSD-backed General Purpose Disk,0.00012666666666666666,ap-south-1,aps1-az2
+gp3,SSD-backed General Purpose Disk,0.00012666666666666666,ap-south-1,aps1-az3
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-1,apse1-az1
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-1,apse1-az2
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-1,apse1-az3
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-2,apse2-az1
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-2,apse2-az2
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-2,apse2-az3
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-3,apse3-az1
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-3,apse3-az2
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,ap-southeast-3,apse3-az3
+gp3,SSD-backed General Purpose Disk,0.00012222222222222221,ca-central-1,cac1-az1
+gp3,SSD-backed General Purpose Disk,0.00012222222222222221,ca-central-1,cac1-az2
+gp3,SSD-backed General Purpose Disk,0.00012222222222222221,ca-central-1,cac1-az4
+gp3,SSD-backed General Purpose Disk,0.00013222222222222224,eu-central-1,euc1-az1
+gp3,SSD-backed General Purpose Disk,0.00013222222222222224,eu-central-1,euc1-az2
+gp3,SSD-backed General Purpose Disk,0.00013222222222222224,eu-central-1,euc1-az3
+gp3,SSD-backed General Purpose Disk,0.0001161111111111111,eu-north-1,eun1-az1
+gp3,SSD-backed General Purpose Disk,0.0001161111111111111,eu-north-1,eun1-az2
+gp3,SSD-backed General Purpose Disk,0.0001161111111111111,eu-north-1,eun1-az3
+gp3,SSD-backed General Purpose Disk,0.00012833333333333333,eu-south-1,eus1-az1
+gp3,SSD-backed General Purpose Disk,0.00012833333333333333,eu-south-1,eus1-az2
+gp3,SSD-backed General Purpose Disk,0.00012833333333333333,eu-south-1,eus1-az3
+gp3,SSD-backed General Purpose Disk,0.00012222222222222221,eu-west-1,euw1-az1
+gp3,SSD-backed General Purpose Disk,0.00012222222222222221,eu-west-1,euw1-az2
+gp3,SSD-backed General Purpose Disk,0.00012222222222222221,eu-west-1,euw1-az3
+gp3,SSD-backed General Purpose Disk,0.0001288888888888889,eu-west-2,euw2-az1
+gp3,SSD-backed General Purpose Disk,0.0001288888888888889,eu-west-2,euw2-az2
+gp3,SSD-backed General Purpose Disk,0.0001288888888888889,eu-west-2,euw2-az3
+gp3,SSD-backed General Purpose Disk,0.0001288888888888889,eu-west-3,euw3-az1
+gp3,SSD-backed General Purpose Disk,0.0001288888888888889,eu-west-3,euw3-az2
+gp3,SSD-backed General Purpose Disk,0.0001288888888888889,eu-west-3,euw3-az3
+gp3,SSD-backed General Purpose Disk,0.00013444444444444444,me-central-1,mec1-az1
+gp3,SSD-backed General Purpose Disk,0.00013444444444444444,me-central-1,mec1-az2
+gp3,SSD-backed General Purpose Disk,0.00013444444444444444,me-central-1,mec1-az3
+gp3,SSD-backed General Purpose Disk,0.00013444444444444444,me-south-1,mes1-az1
+gp3,SSD-backed General Purpose Disk,0.00013444444444444444,me-south-1,mes1-az2
+gp3,SSD-backed General Purpose Disk,0.00013444444444444444,me-south-1,mes1-az3
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-1,use1-az1
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-1,use1-az2
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-1,use1-az3
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-1,use1-az4
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-1,use1-az5
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-1,use1-az6
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-2,use2-az1
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-2,use2-az2
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-east-2,use2-az3
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,us-west-1,usw1-az1
+gp3,SSD-backed General Purpose Disk,0.00013333333333333334,us-west-1,usw1-az3
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-west-2,usw2-az1
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-west-2,usw2-az2
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-west-2,usw2-az3
+gp3,SSD-backed General Purpose Disk,0.00011111111111111112,us-west-2,usw2-az4
+io2,SSD-backed Provisioned IOPS Disk,0.00021083333333333333,ap-east-1,ape1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00021083333333333333,ap-east-1,ape1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00021083333333333333,ap-east-1,ape1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.0001972222222222222,ap-northeast-1,apne1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.0001972222222222222,ap-northeast-1,apne1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.0001972222222222222,ap-northeast-1,apne1-az4
+io2,SSD-backed Provisioned IOPS Disk,0.0001775,ap-northeast-2,apne2-az1
+io2,SSD-backed Provisioned IOPS Disk,0.0001775,ap-northeast-2,apne2-az2
+io2,SSD-backed Provisioned IOPS Disk,0.0001775,ap-northeast-2,apne2-az3
+io2,SSD-backed Provisioned IOPS Disk,0.0001775,ap-northeast-2,apne2-az4
+io2,SSD-backed Provisioned IOPS Disk,0.00018194444444444445,ap-south-1,aps1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00018194444444444445,ap-south-1,aps1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00018194444444444445,ap-south-1,aps1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ap-southeast-1,apse1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ap-southeast-1,apse1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ap-southeast-1,apse1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ap-southeast-2,apse2-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ap-southeast-2,apse2-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ap-southeast-2,apse2-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ca-central-1,cac1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ca-central-1,cac1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,ca-central-1,cac1-az4
+io2,SSD-backed Provisioned IOPS Disk,0.00020694444444444444,eu-central-1,euc1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00020694444444444444,eu-central-1,euc1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00020694444444444444,eu-central-1,euc1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00018208333333333333,eu-north-1,eun1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00018208333333333333,eu-north-1,eun1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00018208333333333333,eu-north-1,eun1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,eu-west-1,euw1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,eu-west-1,euw1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,eu-west-1,euw1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00020138888888888886,eu-west-2,euw2-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00020138888888888886,eu-west-2,euw2-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00020138888888888886,eu-west-2,euw2-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00021083333333333333,me-south-1,mes1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00021083333333333333,me-south-1,mes1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00021083333333333333,me-south-1,mes1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-1,use1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-1,use1-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-1,use1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-1,use1-az4
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-1,use1-az5
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-1,use1-az6
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-2,use2-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-2,use2-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-east-2,use2-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,us-west-1,usw1-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00019166666666666667,us-west-1,usw1-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-west-2,usw2-az1
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-west-2,usw2-az2
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-west-2,usw2-az3
+io2,SSD-backed Provisioned IOPS Disk,0.00017361111111111112,us-west-2,usw2-az4
+standard,HDD-backed Magnetic Disk,9.090277777777778e-05,af-south-1,afs1-az1
+standard,HDD-backed Magnetic Disk,9.090277777777778e-05,af-south-1,afs1-az2
+standard,HDD-backed Magnetic Disk,9.090277777777778e-05,af-south-1,afs1-az3
+standard,HDD-backed Magnetic Disk,0.00012222222222222221,ap-east-1,ape1-az1
+standard,HDD-backed Magnetic Disk,0.00012222222222222221,ap-east-1,ape1-az2
+standard,HDD-backed Magnetic Disk,0.00012222222222222221,ap-east-1,ape1-az3
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-1,apne1-az1
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-1,apne1-az2
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-1,apne1-az4
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-2,apne2-az1
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-2,apne2-az2
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-2,apne2-az3
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-2,apne2-az4
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-3,apne3-az1
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-3,apne3-az2
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-northeast-3,apne3-az3
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-south-1,aps1-az1
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-south-1,aps1-az2
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-south-1,aps1-az3
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-1,apse1-az1
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-1,apse1-az2
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-1,apse1-az3
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-2,apse2-az1
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-2,apse2-az2
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-2,apse2-az3
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-3,apse3-az1
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-3,apse3-az2
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,ap-southeast-3,apse3-az3
+standard,HDD-backed Magnetic Disk,7.638888888888889e-05,ca-central-1,cac1-az1
+standard,HDD-backed Magnetic Disk,7.638888888888889e-05,ca-central-1,cac1-az2
+standard,HDD-backed Magnetic Disk,7.638888888888889e-05,ca-central-1,cac1-az4
+standard,HDD-backed Magnetic Disk,8.194444444444444e-05,eu-central-1,euc1-az1
+standard,HDD-backed Magnetic Disk,8.194444444444444e-05,eu-central-1,euc1-az2
+standard,HDD-backed Magnetic Disk,8.194444444444444e-05,eu-central-1,euc1-az3
+standard,HDD-backed Magnetic Disk,7.256944444444444e-05,eu-north-1,eun1-az1
+standard,HDD-backed Magnetic Disk,7.256944444444444e-05,eu-north-1,eun1-az2
+standard,HDD-backed Magnetic Disk,7.256944444444444e-05,eu-north-1,eun1-az3
+standard,HDD-backed Magnetic Disk,8.020833333333334e-05,eu-south-1,eus1-az1
+standard,HDD-backed Magnetic Disk,8.020833333333334e-05,eu-south-1,eus1-az2
+standard,HDD-backed Magnetic Disk,8.020833333333334e-05,eu-south-1,eus1-az3
+standard,HDD-backed Magnetic Disk,7.638888888888889e-05,eu-west-1,euw1-az1
+standard,HDD-backed Magnetic Disk,7.638888888888889e-05,eu-west-1,euw1-az2
+standard,HDD-backed Magnetic Disk,7.638888888888889e-05,eu-west-1,euw1-az3
+standard,HDD-backed Magnetic Disk,8.055555555555556e-05,eu-west-2,euw2-az1
+standard,HDD-backed Magnetic Disk,8.055555555555556e-05,eu-west-2,euw2-az2
+standard,HDD-backed Magnetic Disk,8.055555555555556e-05,eu-west-2,euw2-az3
+standard,HDD-backed Magnetic Disk,8.055555555555556e-05,eu-west-3,euw3-az1
+standard,HDD-backed Magnetic Disk,8.055555555555556e-05,eu-west-3,euw3-az2
+standard,HDD-backed Magnetic Disk,8.055555555555556e-05,eu-west-3,euw3-az3
+standard,HDD-backed Magnetic Disk,8.402777777777777e-05,me-central-1,mec1-az1
+standard,HDD-backed Magnetic Disk,8.402777777777777e-05,me-central-1,mec1-az2
+standard,HDD-backed Magnetic Disk,8.402777777777777e-05,me-central-1,mec1-az3
+standard,HDD-backed Magnetic Disk,8.402777777777777e-05,me-south-1,mes1-az1
+standard,HDD-backed Magnetic Disk,8.402777777777777e-05,me-south-1,mes1-az2
+standard,HDD-backed Magnetic Disk,8.402777777777777e-05,me-south-1,mes1-az3
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-1,use1-az1
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-1,use1-az2
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-1,use1-az3
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-1,use1-az4
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-1,use1-az5
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-1,use1-az6
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-2,use2-az1
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-2,use2-az2
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-east-2,use2-az3
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,us-west-1,usw1-az1
+standard,HDD-backed Magnetic Disk,0.00011111111111111112,us-west-1,usw1-az3
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-west-2,usw2-az1
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-west-2,usw2-az2
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-west-2,usw2-az3
+standard,HDD-backed Magnetic Disk,6.944444444444444e-05,us-west-2,usw2-az4
